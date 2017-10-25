@@ -1,0 +1,11 @@
+{
+  "global": {
+    "brand": {
+      "subtitle": "<strong>I'm listening...</strong>"
+    },    
+    "gender": {
+      "male": "Man",
+      "female": "Woman"
+    }
+  }
+}

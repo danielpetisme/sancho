@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "general": {
+      "title": "General",
+      "language": "Language",
+      "engine": "Engine",
+      "locale": "Locale",
+      "name": "Bot's Name"
+    },
+    "stt": {
+      "title": "Speech To Text",
+    },
+    "tts": {
+      "title": "Text To Speech",
+      "gender": "Gender"
+    },
+    "nlp": {
+      "title": "Natural Language Processor",
+      "engine": "Engine"
+    },
+    "BingSpeech": {
+      "subscriptionKey": "Subscription Key"
+    },
+    "Recast": {
+      "subscriptionKey": "Subscription Key"
+    },
+    "save": "Save",
+    "reset": "Reset"
+  }
+}

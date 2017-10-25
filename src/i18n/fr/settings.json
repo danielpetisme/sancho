@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "engine": "Moteur",
+    "locale": "Locale",
+    "general": {
+      "title": "General",
+      "language": "Langue",
+      "name": "Nom du robot"
+    },
+    "stt": {
+      "title": "Reconnaisse vocale"
+    },
+    "tts": {
+      "title": "Synthèse vocale",
+      "gender": "Genre"
+    },
+    "nlp": {
+      "title": "Analyse de texte naturel",
+      "engine": "Moteur"
+    },
+    "BingSpeech": {
+      "subscriptionKey": "Clé de souscription"
+    },
+    "Recast": {
+      "subscriptionKey": "Clé de souscription"
+    },
+    "save": "Sauvegarder",
+    "reset": "Reinitialiser"
+  }
+}
