@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+
+<head>
+  <base href="./">
+  <meta charset="utf-8">
+  <title>Sancho</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+  <link rel="icon" type="image/png" href="./content/images/hubot_100x100.png">
+
+  <link rel="stylesheet" href="styles/vendor-26c4ea1170.css">
+
+  <link rel="stylesheet" href="styles/app-56cc3640dc.css">
+</head>
+
+
+<body ng-app="app">
+  <div class="wrapper">
+    <nav class="navbar navbar-light bg-faded border-bottom">
+      <div class="row">
+        <div class="col ml-1">
+          <a class="navbar-brand ml-1" ui-sref="home">
+            <h4><img src="content/images/hubot.svg" width="30" height="30" class="d-inline-block align-top" alt="">Sancho, Go!</h4>
+          </a>
+        </div>
+        <div class="col mr-1 text-right">
+          <a class="btn" ui-sref="settings">
+            <i class="fa fa-cog fa-2x"></i>
+          </a>
+        </div>
+      </div>
+    </nav>
+
+    <div ui-view class="fill"></div>
+  </div>
+</body>
+
+<script src="scripts/vendor-a200149a6d.js"></script>
+
+<script src="scripts/app-811ae530f4.js"></script>
+
+</html>
